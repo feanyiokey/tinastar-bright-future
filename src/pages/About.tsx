@@ -129,7 +129,7 @@ const About = () => {
                   <div className="text-white/90">Educators Placed</div>
                 </div>
                 <div>
-                  <div className="text-5xl font-bold text-accent mb-2">10+</div>
+                  <div className="text-5xl font-bold text-accent mb-2">20+</div>
                   <div className="text-white/90">Years Experience</div>
                 </div>
                 <div>
