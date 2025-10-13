@@ -107,7 +107,7 @@ const About = () => {
                       "I'm proud of what we've accomplished and excited about the future. Together, we're not just changing education—we're transforming lives."
                     </p>
                     <div>
-                      <p className="font-semibold text-primary text-lg">Christina Omolade</p>
+                      <p className="font-semibold text-primary text-lg">Christina Nwafor</p>
                       <p className="text-muted-foreground">Founder & Lead Consultant</p>
                     </div>
                   </div>
